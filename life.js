@@ -1,4 +1,4 @@
-alert("Ifunanya Ozioko");
-alert("5ft 6inch");
-alert("Nigeria");
+console.log("Ifunanya Ozioko");
+console.log("5ft 6inch");
+console.log("Nigeria");
 
